@@ -7,6 +7,6 @@
 | Contest        | High risk | Medium risk | Low Risk     | Language    |Security Report|
 |----------------|-----------|-------------|-----------------|-------------|----------------|
 |-Sparkn Protocol|   -       |       -      |     1          |  Solidity   | [Potential DOS due to Gas Exhaustion](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx#L-06)        |
-|-Ditto          |   -       |       -       |      2        |  Solidity   | [ L-08. Unlimited Approval Risk in BridgeSteth Contract](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)|
+|-DittoETH       |   -       |       -       |      2        |  Solidity   | [ L-08. Unlimited Approval Risk in BridgeSteth Contract](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)|
 |                |   -       |       -       |               |             | [L-07. Lack of Duplicate ID Check in combineShorts Function](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)
 
